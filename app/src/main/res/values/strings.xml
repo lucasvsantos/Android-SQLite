@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersistenciaII</string>
+    <string name="nome">Nome</string>
+    <string name="salvar">Salver</string>
+    <string name="cliente_salvo_com_sucesso">Cliente cadastrado com sucesso!!</string>
+    <string name="listar">Listar</string>
+</resources>
